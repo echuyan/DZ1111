@@ -42,6 +42,8 @@ public class OtusTest {
         String title  = driver.getTitle();
         logger.info(title);
         Assert.assertEquals(title,titleCheck);
+
+
     }
 
 
