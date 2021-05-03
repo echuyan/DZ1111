@@ -54,7 +54,7 @@
                     <testFailureIgnore>false</testFailureIgnore>
 
                 </configuration>
-                
+
             </plugin>
         </plugins>
     </build>
